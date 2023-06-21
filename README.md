@@ -22,7 +22,7 @@ Realizei junto com a página principal do Instagram um sistema de login e cadast
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-# Como iniciar o projeto:
+# Como iniciar o projeto
 
 
 
