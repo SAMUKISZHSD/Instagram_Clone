@@ -2,7 +2,7 @@
 
 
 
-## Available Scripts
+## Como iniciar o projeto:
 
 
 
