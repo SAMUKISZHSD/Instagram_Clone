@@ -11,9 +11,12 @@ Realizei junto com a página principal do Instagram um sistema de login e cadast
 
 - TELA PRINCIPAL
  <img  src="https://github.com/SAMUKISZHSD/instagram-clone/blob/main/tela%20principal.jpeg"  align="center">
+ 
 - LOGIN
-
+ <img  src="https://github.com/SAMUKISZHSD/instagram-clone/blob/main/tela%20login.jpeg"  align="center">
+ 
 - CADASTRO
+   <img  src="https://github.com/SAMUKISZHSD/instagram-clone/blob/main/tela%20cadastro.jpeg"  align="center">
 
 
 
