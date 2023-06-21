@@ -1,6 +1,6 @@
 # Instagram Metal Clone
 - CLONE DO INSTAGRAM 
- <img align="center" src="file:///C:/Users/Aluno%20PROA/Downloads/Captura%20da%20Web_14-6-2023_175248_localhost.jpeg">
+ <img align="center" src="https://s2-g1.glbimg.com/MJH-W-MtbExmhzm_9GrCWb9ZM7Q=/0x0:5184x3456/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/5/3/A8BYbVRvK4FFhFEfGr2Q/2021-05-26t130024z-1066180767-rc2pnn9v7ymc-rtrmadp-3-facebook-likes.jpg">
 
  
 
